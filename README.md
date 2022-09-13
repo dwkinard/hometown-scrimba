@@ -1,1 +1,2 @@
-# hometown-scrimba
+# Hometown
+A scrimba project to practice HTML and CSS
